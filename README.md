@@ -8,7 +8,7 @@ There are two hard things in computer science:
 ```
 
 
-These words hang over our heads, constantly and bitterly, reminding us that we could have chosen another career - perhaps potato farming? Now the life of a potato farmer is a simpler one, where potatoes go into the ground, and then new potatoes come up from the ground.
+These words hang over our heads, constantly and bitterly, reminding us that we could have chosen another career - perhaps potato farming? Now, the life of a potato farmer is a simpler one, where potatoes go into the ground and then new potatoes come up from the ground.
 
 An off-by-one error won't destroy your crops.  
 Your potatoes won't suddenly be incompatible with your clients plates.  
